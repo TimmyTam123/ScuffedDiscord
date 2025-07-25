@@ -11,15 +11,21 @@ Functional Requirement:
 
 Sign in page, giving user an id 
 
-Forums page which links to Individual messaging pages
+Connected backside displaying messages, including images
+
+3 seperate pages total, one base page/sign in page, one forum page and one messaging page
 
 Nonfunctional Requirements:
 
-Potential floating point integer gambling system
+Potential gambling system
 
 Potential 4th page/javascript popup with messages
 
+Notifications?
+
 Actually good formatting.
+
+Potential audio recordings in messages displayed
 
 
 
