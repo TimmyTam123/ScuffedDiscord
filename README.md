@@ -5,7 +5,7 @@ Documentation time!!!
 
 Purpose: Allow communication!
 
-Plan: Make discord but scuffed
+Plan: Make discord without messaging, and then add the messaging later.
 
 Functional Requirement:
 
