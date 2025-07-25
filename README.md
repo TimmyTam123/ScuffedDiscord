@@ -3,9 +3,11 @@ School Assessment Task
 
 Documentation time!!!
 
+Purpose: Allow communication!
+
 Plan: Make discord but scuffed
 
-How this will work:
+Functional Requirement:
 
 Sign in page, giving user an id 
 
@@ -18,6 +20,7 @@ Potential floating point integer gambling system
 Potential 4th page/javascript popup with messages
 
 Actually good formatting.
+
 
 
 
