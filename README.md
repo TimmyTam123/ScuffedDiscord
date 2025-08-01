@@ -41,12 +41,11 @@ Date not required to be recorded but would be better if recorded
 
 
 |Thing|reason|
-|---|---|
 |Dark Colour Scheme|Good for eyes, accent colours will stand out easier|
 |No navigation|Website isnt large enough for dedicated navigation|
 |Anito as font|Lucas doesnt like nunito sans so I chose Anito and he likes it|
 |Background image for desktop design|Simple to make (hopefully) and also aesthetically pleasing|
 |Gacha button on home page|Easy access to user|
-|---|---|
+
 
 
