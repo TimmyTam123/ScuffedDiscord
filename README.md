@@ -39,7 +39,7 @@ Timeframe above profile picture in 24 hour time
 
 Date not required to be recorded but would be better if recorded
 
-|---|---|
+
 |Thing|reason|
 |---|---|
 |Dark Colour Scheme|Good for eyes, accent colours will stand out easier|
