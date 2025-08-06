@@ -1,52 +1,54 @@
 # ScuffedDiscord
-School Assessment Task
+School Web App Development Task
 
-Documentation time!!!
+Purpose: Allow viewing of past messages on an online platform.
 
-Purpose: Allow communication!
+Plan: Make site to view past messages first, then make non functional requirements such as gacha, javascript and then sendinng messages
 
-Plan: Make discord without messaging, and then add the messaging later.
 
-Functional Requirement:
+| Functional Requirement | Reasoning |
+| Sign In Page with User IDs | Allows the same account to send multiple messages |
+| Connect Backend allowing the display of messages | Allows messages to be viewed |
+| 3 pages total | Allows the entire site to be linked together through links |
 
-Sign in page, giving user an id 
 
-Connected backside displaying messages, including images
+| Nonfunctional Requirements | Reasoning |
+| Potential Gacha/Cosmetic/Gambling system | Allows detailed customisation for the accounts |
+| Notification / Javascript popup system | Allows new messages to be viewed in real time |
+| Beautiful formatting | Ease on eyes|
+| Audio recordings being sent | Greater file type upload accessability |
 
-3 seperate pages total, one base page/sign in page, one forum page and one messaging page
-
-Nonfunctional Requirements:
-
-Potential gambling system
-
-Potential 4th page/javascript popup with messages
-
-Notifications?
-
-Actually good formatting.
-
-Potential audio recordings in messages displayed
 
 Design Choices:
 
-Simple colour scheme.
+Simple colour scheme:
+
+A simple colour scheme was to be used, too many complicated colours would increase difficulty in the creation of the website and also potentially make it much more difficult to look at with eyes.
+
+Colour Choice:
 
 4 shades of navy, 3 highlight colours (cyan, blueish gray and cream white)
 
-Font IS ANITO
+These colours were picked, mainly because Dark Navy is an adequate replacement for black and is softer on eyes. Most borders would be made with a blueish gray outline, which is easy to look at and still distinguishable.
 
-Timeframe above profile picture in 24 hour time
+Cyan would be rareley used, and only really used as borders/outlines on important things like the sign out button.
 
-Date not required to be recorded but would be better if recorded
+Cream White is going to be the text colour of the messages.
+
+Font Choice:
+
+Font IS ANITO. Chosen by Lucas Chen
+
+Message Display notes:
+
+Time when the message sent should be displayed. The date on which it was sent should be displayed too!
 
 
-| Thing | reason |
-| Center chat1 text|lucas said so|
-|Dark Colour Scheme|Good for eyes, accent colours will stand out easier|
-|No navigation|Website isnt large enough for dedicated navigation|
-|Anito as font|Lucas doesnt like nunito sans so I chose Anito and he likes it|
-|Background image for desktop design|Simple to make (hopefully) and also aesthetically pleasing|
-|Gacha button on home page|Easy access to user|
+| Other Design Choices | Reasoning |
+| Dark Colour Scheme | Allows colours like grey to be used as accent colours, instead of really bright colours |
+| No Dedicated Navigation | Website isnt large enough for dedicated navigation |
+| Background image for desktop design |Simple to make (hopefully) and also aesthetically pleasing|
+
 
 
 
