@@ -29,26 +29,19 @@ Colour Choice:
 
 4 shades of navy, 3 highlight colours (cyan, blueish gray and cream white)
 
-These colours were picked, mainly because Dark Navy is an adequate replacement for black and is softer on eyes. Most borders would be made with a blueish gray outline, which is easy to look at and still distinguishable.
+Font IS ANITO
 
-Cyan would be rareley used, and only really used as borders/outlines on important things like the sign out button.
+Timeframe above profile picture in 24 hour time
 
-Cream White is going to be the text colour of the messages.
-
-Font Choice:
-
-Font IS ANITO. Chosen by Lucas Chen
-
-Message Display notes:
-
-Time when the message sent should be displayed. The date on which it was sent should be displayed too!
+Date not required to be recorded but would be better if recorded
 
 
-| Other Design Choices | Reasoning |
-| Dark Colour Scheme | Allows colours like grey to be used as accent colours, instead of really bright colours |
-| No Dedicated Navigation | Website isnt large enough for dedicated navigation |
-| Background image for desktop design |Simple to make (hopefully) and also aesthetically pleasing|
-
+| Thing | reason |
+|Dark Colour Scheme|Good for eyes, accent colours will stand out easier|
+|No navigation|Website isnt large enough for dedicated navigation|
+|Anito as font|Lucas doesnt like nunito sans so I chose Anito and he likes it|
+|Background image for desktop design|Simple to make (hopefully) and also aesthetically pleasing|
+|Gacha button on home page|Easy access to user|
 
 
 
