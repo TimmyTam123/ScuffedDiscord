@@ -7,12 +7,14 @@ Plan: Make site to view past messages first, then make non functional requiremen
 
 
 | Functional Requirement | Reasoning |
+| ----------- | ----------- |
 | Sign In Page with User IDs | Allows the same account to send multiple messages |
 | Connect Backend allowing the display of messages | Allows messages to be viewed |
 | 3 pages total | Allows the entire site to be linked together through links |
 
 
 | Nonfunctional Requirements | Reasoning |
+| ----------- | ----------- |
 | Potential Gacha/Cosmetic/Gambling system | Allows detailed customisation for the accounts |
 | Notification / Javascript popup system | Allows new messages to be viewed in real time |
 | Beautiful formatting | Ease on eyes|
@@ -45,6 +47,7 @@ Time when the message sent should be displayed. The date on which it was sent sh
 
 
 | Other Design Choices | Reasoning |
+| ----------- | ----------- |
 | Dark Colour Scheme | Allows colours like grey to be used as accent colours, instead of really bright colours |
 | No Dedicated Navigation | Website isnt large enough for dedicated navigation |
 | Background image for desktop design |Simple to make (hopefully) and also aesthetically pleasing|
