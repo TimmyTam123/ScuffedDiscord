@@ -49,6 +49,12 @@ Time when the message sent should be displayed. The date on which it was sent sh
 
 Icons should be simple and understandable. I will choose extremely simple icons and extremely easy understandable icons.
 
+*Settings Notes*
+In the setting users should have the ablity to change the background
+Users can upload Images as long as they are not pornographic
+
+Language support.
+
 
 | Other Design Choices | Reasoning |
 | ----------- | ----------- |
