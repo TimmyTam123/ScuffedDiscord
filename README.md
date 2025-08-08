@@ -11,14 +11,13 @@ Plan: Make site to view past messages first, then make non functional requiremen
 | Sign In Page with User IDs | Allows the same account to send multiple messages |
 | Connect Backend allowing the display of messages | Allows messages to be viewed |
 | Gacha displaying thing | Allows maybe customisation |
+| Audio recordings being sent | Greater file type upload accessability |
 
 
 | Nonfunctional Requirements | Reasoning |
 | ----------- | ----------- |
-| Potential Gacha/Cosmetic/Gambling system | Allows detailed customisation for the accounts |
-| Notification / Javascript popup system | Allows new messages to be viewed in real time |
-| Beautiful formatting | Ease on eyes|
-| Audio recordings being sent | Greater file type upload accessability |
+| IMMACULATE BACKEND | Ease of coding|
+| ABSOLUTELY PERFECT COLOURS | Ease to eyes |
 
 
 **Design Choices:**
