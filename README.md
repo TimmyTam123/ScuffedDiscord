@@ -10,7 +10,7 @@ Plan: Make site to view past messages first, then make non functional requiremen
 | ------------------------------------------------------------------ | ----------- |
 | Sign In Page with User IDs | Allows the same account to send multiple messages |
 | Connect Backend allowing the display of messages | Allows messages to be viewed |
-| 3 pages total | Allows the entire site to be linked together through links |
+| Gacha displaying thing | Allows maybe customisation |
 
 
 | Nonfunctional Requirements | Reasoning |
