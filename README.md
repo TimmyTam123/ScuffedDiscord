@@ -21,13 +21,13 @@ Plan: Make site to view past messages first, then make non functional requiremen
 | Audio recordings being sent | Greater file type upload accessability |
 
 
-Design Choices:
+**Design Choices:**
 
-Simple colour scheme:
+*Simple colour scheme:*
 
 A simple colour scheme was to be used, too many complicated colours would increase difficulty in the creation of the website and also potentially make it much more difficult to look at with eyes.
 
-Colour Choice:
+*Colour Choice:*
 
 4 shades of navy, 3 highlight colours (cyan, blueish gray and cream white)
 
@@ -37,13 +37,17 @@ Cyan would be rareley used, and only really used as borders/outlines on importan
 
 Cream White is going to be the text colour of the messages.
 
-Font Choice:
+*Font Choice:*
 
 Font IS ANITO. Chosen by Lucas Chen
 
-Message Display notes:
+*Message Display notes:*
 
 Time when the message sent should be displayed. The date on which it was sent should be displayed too!
+
+*Icon Notes*
+
+Icons should be simple and understandable. I will choose extremely simple icons and extremely easy understandable icons.
 
 
 | Other Design Choices | Reasoning |
