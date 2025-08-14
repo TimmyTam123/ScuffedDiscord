@@ -17,7 +17,7 @@ Plan: Make site to view past messages first, then make non functional requiremen
 | Nonfunctional Requirements | Reasoning |
 | ----------- | ----------- |
 | IMMACULATE BACKEND | Ease of coding|
-| ABSOLUTELY PERFECT COLOURS | Ease to eyes |
+| ABSOLUTELY PERFECT COLOURS | Ease to eyes|
 
 
 **Design Choices:**
@@ -55,10 +55,63 @@ Users can upload Images as long as they are not pornographic
 Language support.
 
 
+
 | Other Design Choices | Reasoning |
 | ----------- | ----------- |
 | Dark Colour Scheme | Allows colours like grey to be used as accent colours, instead of really bright colours |
 | No Dedicated Navigation | Website isnt large enough for dedicated navigation |
 | Background image for desktop design |Simple to make (hopefully) and also aesthetically pleasing|
+
+
+
+**Week 4 notes**
+*Algorithm Design*
+Created 2 algorithms, one for logging in and one for signing up. Messages will be integrated much later into the project.
+
+Reset password feature probably will be impossible.
+
+Future algorithms to be made:
+- Edit profile
+- Send Messages
+
+*Test cases*
+Test 1
+- ID: t1
+- Case name: Log in
+- Preconditions: fake account in sql
+- Test Steps
+1. Type in correct username
+2. Type in correct password
+3. Hit login
+4. Should be sent to homepage.
+
+Test 2
+- ID: t2
+- Case name: Log in but stupid
+- Preconditions: fake account in sql
+- Test Steps
+1. Type in correct username
+2. Type in incorrect password
+3. Hit login
+4. New text shows up stating that username/password is incorrect.
+5. Type in incorrect username
+6. Hit login
+7. New text shows up stating that username/password is incorrect.
+
+Test 3
+- ID: t3
+- Case name: Sign up but everything
+- Preconditions: fake account in sql
+- Test Steps
+1. Type in username for existing account
+2. Type in 2 identical passwords
+3. Hit sign in
+4. New text shows up stating that username is taken
+5. Change username and one of the password boxes
+6. Hit login
+7. New text shows up stating that passwords are not identical
+8. Change password to correct password
+9. Log in!!!
+10. Should be sent to homepage
 
 
