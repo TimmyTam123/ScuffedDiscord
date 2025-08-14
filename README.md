@@ -95,8 +95,9 @@ Test 2
 3. Hit login
 4. New text shows up stating that username/password is incorrect.
 5. Type in incorrect username
-6. Hit login
-7. New text shows up stating that username/password is incorrect.
+6. Type in correct password
+7. Hit login
+8. New text shows up stating that username/password is incorrect.
 
 Test 3
 - ID: t3
