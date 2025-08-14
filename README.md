@@ -50,7 +50,7 @@ Icons should be simple and understandable. I will choose extremely simple icons 
 
 *Settings Notes*
 In the setting users should have the ablity to change the background
-Users can upload Images as long as they are not pornographic
+Users can upload Images as long as they are safe and for work audiences
 
 Language support.
 
