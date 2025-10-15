@@ -118,3 +118,5 @@ Test 3
 **Documention Logs for Week 6**
 table was created
 foreign key was created
+
+DOCUMENTATION ON WEEK 7
