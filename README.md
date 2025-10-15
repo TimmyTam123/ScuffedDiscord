@@ -154,7 +154,7 @@ GOT THE FINAL 3 TO 100, performance is still at 80 because of image formats, may
 
 Still currently have issues, (non important), but are weigning down the performance numbers. Image formatting is leading to some slowdown.
 
-Update: i have fixed the image formatting issue, the final one is at 99 because of a font style choice, by using google fonts instead, so it cant be increased further.
+Update: i have fixed the image formatting issue, the final one is at 99 because of a font style choice, by using google fonts instead, so it cant be increased further. Maybe with design changes it might be possible
 
 4. Working Javascript functinality
 Both for sending stuff, but also javascript popups which appear on click. Now backend is fully linked, and is completely attatched to the database. Sign up features and sign in features now completely work.
@@ -177,7 +177,8 @@ password: test
 
 copilot
 - help in javascript messaging system
-- figuring out meta viewpoint
+- figuring out meta viewpoint 
+
 
 rico
 - showing me that it was possible to do a message system
