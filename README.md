@@ -115,4 +115,6 @@ Test 3
 9. Log in!!!
 10. Should be sent to homepage
 
-
+**Documention Logs for Week 6**
+table was created
+foreign key was created
