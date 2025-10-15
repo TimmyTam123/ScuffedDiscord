@@ -116,7 +116,70 @@ Test 3
 10. Should be sent to homepage
 
 **Documention Logs for Week 6**
-table was created
-foreign key was created
 
-DOCUMENTATION ON WEEK 7
+table was created
+foreign key was createds
+
+Started and finished setting up different webpages except for invalid credentials page.
+
+
+
+**Documentation Logs for Week 7 - 10**
+absolutely failed to add a new javascript info button. Formatting doesnt like working, gave up.
+
+**Docuementation Log for Holidays**
+was overseas. did nothing
+
+**Documentation post holidays (15.10.24)**
+
+1. Made messsages work
+Made a whole bunch of code and functions in Database_manager, allowing messages to be finally sent, recieved and instantly recieved. Times are now being displayed on the messages finally with full date and time (including seconds). 
+
+Your own message is now highlighted in a different colour, showing accounts which messages have been sent on it.
+
+Attempted to add cosmetic system (changing the highlight colour), and gave up.
+
+Will require actual database work, and therefore will take too long.
+
+2. Made latest message preview work on main menu
+Now shows the latest sent message on the main menu, almost instantaneously. This one doesnt include the time.
+
+Some problems with the message cutting off, but formatting the text which appears conditionally is incredibly difficult, so this has been stopped.
+
+3. Lighthouse reports
+
+![alt text](<Screenshot 2025-10-16 at 9.58.05 am.png>)
+
+GOT THE FINAL 3 TO 100, performance is still at 80 because of image formats, may be fixed and may be completely ignored. Final 3 are completely done for most pages (i may have missed one or two).
+
+Still currently have issues, (non important), but are weigning down the performance numbers. Image formatting is leading to some slowdown.
+
+Update: i have fixed the image formatting issue, the final one is at 99 because of a font style choice, by using google fonts instead, so it cant be increased further.
+
+4. Working Javascript functinality
+Both for sending stuff, but also javascript popups which appear on click. Now backend is fully linked, and is completely attatched to the database. Sign up features and sign in features now completely work.
+
+# How to run the app
+clone respitory or download everything.
+
+run main.py in terminal/command prompt
+
+`python3 main.py` or `python main.py`
+
+
+feel free to use the sign up page, if you would like to use an old login:
+
+username: test
+password: test
+
+
+## ackowledgements
+
+copilot
+- help in javascript messaging system
+- figuring out meta viewpoint
+
+rico
+- showing me that it was possible to do a message system
+
+
